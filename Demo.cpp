@@ -8,7 +8,7 @@ using ariel::Algorithms;
 
 using namespace std;
 
-int main2()
+int main()
 {
     ariel::Graph g;
     // 3x3 matrix that represents a connected graph.
